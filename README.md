@@ -6,4 +6,4 @@ I got interested in the process of creating a good encryption so I decided to cr
 
 ## How to run
 
-To get started you can `git clone  https://github.com/DYasser/EncDec.git` and have `C++` installed and initialized. You can run the file then by runing the main class using an IDE for it.
+To get started you can `git clone  https://github.com/DYasser/EncDec.git` and have `C++` installed and initialized. You can run the file then by running the main class using an IDE for it.
